@@ -98,7 +98,7 @@ class MainActivity : AppCompatActivity() {
         entries.add(PieEntry(70f))
         entries.add(PieEntry(20f))
         entries.add(PieEntry(10f))
-        
+
 
 
         // on below line we are setting pie data set
